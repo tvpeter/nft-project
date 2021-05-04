@@ -8,3 +8,7 @@ npm install
 ```
 npm start
 ```
+## Restart server after file change
+```
+npm run dev
+```
